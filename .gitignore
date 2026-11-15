@@ -1,0 +1,29 @@
+# Unity-generated files
+/Library/
+/Temp/
+/Obj/
+/Build/
+/Builds/
+/Logs/
+/UserSettings/
+/MemoryCaptures/
+/Recordings/
+
+# IDE-generated files
+/.vs/
+/.vscode/
+/.idea/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Keep Unity asset metadata and project settings in Git.
